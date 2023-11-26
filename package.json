@@ -1,5 +1,5 @@
 {
-  "name": "m04_tutorial",
+  "name": "m05_tutorial",
   "version": "1.0.0",
   "description": "Advanced Node",
   "main": "server.js",
@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.9",
     "express": "^4.18.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
   }
 }
